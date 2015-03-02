@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream remote is a remote that you don't own, i.e. you can pull from it but you can't push into it. Upstream remote is using in collaboration when you want to keep track with changes on the main repository. 
