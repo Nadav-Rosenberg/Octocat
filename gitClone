@@ -1,1 +1,5 @@
-Explain what git clone does, in your own words
+Git clone copies a repository and creats a new ideantical repository that links to the original repositoty as a remote and names it "origin" 
+
+The syntex is 
+
+git clone <location of the repository> 
