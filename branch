@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branch is a photocopy of a repository. Once you have a new branch you can keep building your code, but you can always go back to an old branch and keep working on it as if you didn't change anything since you created the branch. 
